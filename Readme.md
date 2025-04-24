@@ -1,33 +1,36 @@
-# 🏥 Doctor Appointment Management System
+# 🏥 Doc-Flow: Doctor Appointment Management System
 
 A modern and efficient web application for managing doctor appointments, built with React and Tailwind CSS.
 
-![Project Preview](https://doc-flow.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-DocFlow-blue)](https://doc-flow.netlify.app/)
+[![GitHub](https://img.shields.io/github/license/Purab2001/DocFlow)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Purab2001/DocFlow)](https://github.com/Purab2001/DocFlow/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Purab2001/DocFlow)](https://github.com/Purab2001/DocFlow/network)
 
 ## ✨ Features
 
 - **👨‍⚕️ Doctor Profiles**
-  - Detailed doctor information
-  - Education and specialty details
-  - Availability calendar
-  - Professional background
+  - Detailed doctor information and specialties
+  - Professional background and qualifications
+  - Availability calendar and scheduling
+  - Patient reviews and ratings
 
-- **📅 Appointment Booking**
-  - Easy appointment scheduling
+- **📅 Appointment Management**
+  - Easy appointment scheduling system
   - Real-time availability checking
-  - Appointment management
-  - Email notifications
+  - Appointment history tracking
+  - Email notifications and reminders
 
-- **📊 Dashboard**
-  - Interactive charts and statistics
-  - Appointment overview
-  - Patient management
-  - Analytics and insights
+- **📊 Dashboard Analytics**
+  - Interactive appointment statistics
+  - Patient management system
+  - Revenue and performance metrics
+  - Customizable reports
 
 - **📱 Responsive Design**
   - Mobile-first approach
   - Cross-device compatibility
-  - Modern UI/UX
+  - Modern UI/UX design
   - Accessible interface
 
 ## 🛠️ Tech Stack
@@ -38,6 +41,7 @@ A modern and efficient web application for managing doctor appointments, built w
 - **State Management**: React Hooks
 - **Routing**: React Router
 - **Icons**: React Icons
+- **Build Tool**: Vite
 
 ## 🚀 Getting Started
 
@@ -51,8 +55,8 @@ A modern and efficient web application for managing doctor appointments, built w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Purab2001/doctor-appointment-system.git
-cd doctor-appointment-system
+git clone https://github.com/Purab2001/DocFlow.git
+cd DocFlow
 ```
 
 2. Install dependencies:
@@ -64,17 +68,17 @@ yarn install
 
 3. Start the development server:
 ```bash
-npm start
+npm run dev
 # or
-yarn start
+yarn dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📁 Project Structure
 
 ```
-doctor-appointment-system/
+DocFlow/
 ├── public/
 │   ├── index.html
 │   └── assets/
@@ -87,9 +91,10 @@ doctor-appointment-system/
 │   ├── pages/
 │   ├── hooks/
 │   ├── utils/
-│   ├── App.js
-│   └── index.js
+│   ├── App.jsx
+│   └── main.jsx
 ├── package.json
+├── vite.config.js
 └── README.md
 ```
 
@@ -137,3 +142,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐️ If you find this project helpful, please give it a star!
+
+🔗 **Live Demo**: [Doc-Flow](https://doc-flow.netlify.app/)  
+🔗 **Repository**: [GitHub](https://github.com/Purab2001/DocFlow)
