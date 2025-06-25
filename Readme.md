@@ -3,7 +3,6 @@
 A modern and efficient web application for managing doctor appointments, built with React and Tailwind CSS.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-DocFlow-blue)](https://doc-flow.netlify.app/)
-[![GitHub](https://img.shields.io/github/license/Purab2001/DocFlow)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Purab2001/DocFlow)](https://github.com/Purab2001/DocFlow/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Purab2001/DocFlow)](https://github.com/Purab2001/DocFlow/network)
 
@@ -123,14 +122,6 @@ DocFlow/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Abir Shahadat Purab** - [@Purab2001](https://github.com/Purab2001)
 
 ## 🙏 Acknowledgments
 
